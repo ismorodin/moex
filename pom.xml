@@ -5,7 +5,7 @@
 
     <groupId>ru.moex</groupId>
     <artifactId>moex-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT-v2018-08-29_1.1</version>
     <packaging>jar</packaging>
 
     <name>moex-api</name>
