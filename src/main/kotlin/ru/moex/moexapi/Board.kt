@@ -53,6 +53,7 @@ class Metadata(val MARKETPRICE3TRADESVALUE: MARKETPRICE3TRADESVALUE,
 //        "ADMITTEDVALUE",
 //        "WAVAL"
 //)
+
 @JsonFormat(shape = JsonFormat.Shape.ARRAY)
 data class Data(
         var BOARDID: String?,
